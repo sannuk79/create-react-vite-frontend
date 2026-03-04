@@ -1,0 +1,39 @@
+{
+  "name": "create-clean-react-vite",
+  "version": "1.0.0",
+  "description": "Ultra-clean React + Vite starter with Tailwind, TypeScript, ESLint and payload validation",
+  "type": "module",
+  "bin": {
+    "create-clean-react-vite": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "template"
+  ],
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "react",
+    "vite",
+    "tailwind",
+    "typescript",
+    "starter",
+    "clean",
+    "boilerplate",
+    "eslint"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sannuk79/create-react-vite-frontend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sannuk79/create-react-vite-frontend/issues"
+  },
+  "homepage": "https://github.com/sannuk79/create-react-vite-frontend#readme",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
