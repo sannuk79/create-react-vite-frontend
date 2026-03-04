@@ -1,7 +1,7 @@
 {
   "name": "create-clean-react-vite",
-  "version": "1.0.0",
-  "description": "Ultra-clean React + Vite starter with Tailwind, TypeScript, ESLint and payload validation",
+  "version": "1.0.1",
+  "description": "Clean React + Vite starter CLI with Tailwind CSS, TypeScript, ESLint and payload-guard security built-in.",
   "type": "module",
   "bin": {
     "create-clean-react-vite": "./index.js"
@@ -14,14 +14,27 @@
     "test": "node index.js"
   },
   "keywords": [
-    "react",
-    "vite",
-    "tailwind",
-    "typescript",
-    "starter",
-    "clean",
-    "boilerplate",
-    "eslint"
+    "create-react-app",
+    "react-cli",
+    "react-template",
+    "react-starter",
+    "react-boilerplate",
+    "react-vite",
+    "vite-react-template",
+    "react-tailwind",
+    "react-typescript",
+    "react-eslint",
+    "react-project-generator",
+    "react-clean-template",
+    "react-minimal-template",
+    "react-starter-template",
+    "vite-react-cli",
+    "react-security",
+    "payload-guard",
+    "clean-starter",
+    "clean-boilerplate",
+    "secure-template",
+    "minimal-starter"
   ],
   "author": "",
   "license": "MIT",
